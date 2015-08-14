@@ -1,1 +1,3 @@
-I'm a text file.  And I am the hotfix that needs to go out yesterday!!!!
+I'm a text file.  I'm a new line.
+
+And I'm a new paragraph
